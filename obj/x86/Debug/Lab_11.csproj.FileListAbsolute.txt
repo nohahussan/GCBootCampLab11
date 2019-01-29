@@ -1,0 +1,6 @@
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/bin/Debug/Lab_11.exe
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/bin/Debug/Lab_11.pdb
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/obj/x86/Debug/Lab_11.csprojAssemblyReference.cache
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/obj/x86/Debug/Lab_11.csproj.CoreCompileInputs.cache
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/obj/x86/Debug/Lab_11.exe
+/Users/Noha/Desktop/practice/Lab_11/Lab_11/obj/x86/Debug/Lab_11.pdb
